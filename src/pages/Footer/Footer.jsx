@@ -10,46 +10,46 @@ const Footer = () => {
         <div className='flex justify-between mx-24 pt-24'>
             <div className='space-y-5'>
                 <div className=''>
-                    <p className='text-[#777777] haha2 font-semibold tracking-widest'>PRODUCTS</p>
+                    <p className='text-[#777777] haha2 font-semibold tracking-widest cursor-pointer'>PRODUCTS</p>
                 </div>
                 <div className='space-y-3'>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Home Security</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Internet Security</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Endpoint Security</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Bezpieczna Szkoła</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Ochrona Serwera</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Wersje OEM</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Android Antivirus</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Home Security</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Internet Security</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Endpoint Security</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Bezpieczna Szkoła</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Ochrona Serwera</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Wersje OEM</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Android Antivirus</p>
                 </div>
             </div>
             <div className='space-y-5'>
                 <div className=''>
-                    <p className='text-[#777777] haha2 font-semibold tracking-widest'>MENU</p>
+                    <p className='text-[#777777] haha2 font-semibold tracking-widest cursor-pointer'>MENU</p>
                 </div>
                 <div className='space-y-3'>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Wsparcie</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Kontakt</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Kariera</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Blog</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Partnerzy</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Porównanie produktów</p>
-                  <p className='text-[#CCCCCC] haha font-[700]'>Polityka prywatności</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Wsparcie</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Kontakt</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Kariera</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Blog</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Partnerzy</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Porównanie produktów</p>
+                  <p className='text-[#CCCCCC] haha font-[700] cursor-pointer'>Polityka prywatności</p>
                 </div>
             </div>
             <div className='space-y-5'>
 
               <div className=''>
-                    <p className='text-[#777777] haha2 font-semibold tracking-widest'>KONTAKT</p>
+                    <p className='text-[#777777] haha2 font-semibold tracking-widest cursor-pointer'>KONTAKT</p>
                 </div>
 
                 <div className='space-y-3'>
-                  <p className='font-[400] text-[#CCCCCC] haha'>Arcabit Sp. z o.o.</p>
-                  <p className='font-[400] text-[#CCCCCC] haha'>05-082 Blizne Łaszczyńskiego,</p>
-                  <p className='font-[400] text-[#CCCCCC] haha'>ul. Graniczna 50 (Warszawa/Bemowo)</p>
+                  <p className='font-[400] text-[#CCCCCC] haha cursor-pointer'>Arcabit Sp. z o.o.</p>
+                  <p className='font-[400] text-[#CCCCCC] haha cursor-pointer'>05-082 Blizne Łaszczyńskiego,</p>
+                  <p className='font-[400] text-[#CCCCCC] haha cursor-pointer'>ul. Graniczna 50 (Warszawa/Bemowo)</p>
                 </div>
                 <div className='space-y-3'>
-                   <p className='font-[400] text-[#CCCCCC] haha'>tel. (22) 532 69 00</p>
-                  <p className='font-[400] text-[#CCCCCC] haha'>fax (22) 201 21 82</p>
+                   <p className='font-[400] text-[#CCCCCC] haha cursor-pointer'>tel. (22) 532 69 00</p>
+                  <p className='font-[400] text-[#CCCCCC] haha cursor-pointer'>fax (22) 201 21 82</p>
                   
                 </div>
 
